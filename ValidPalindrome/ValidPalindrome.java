@@ -10,10 +10,8 @@ public class ValidPalindrome {
     Given a string s, return true if it is a palindrome, or false otherwise.
      */
     public boolean isPalindrome(String s) {
-        String text = s.toLowerCase();
-        text=text.replace(",","");
-        text=text.replace(" ","");
-        text=text.replace(":","");
+        String regex="[^a-z0-9]";
+        String text = s.toLowerCase().replaceAll(regex,"");
         String reverseString="";
 
         for(int i=text.length()-1; i>=0; i--){
