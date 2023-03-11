@@ -32,6 +32,14 @@ A zero-based permutation nums is an array of distinct integers from 0 to nums.le
  
    * If you want to review my solution, you can click the link! [Solution](https://github.com/sinemturkcu/LeetCodeAlgorithmSolutions/blob/master/BuildArrayFromPermutation/BuildArrayFromPermutation.java))
 
+### 5. Remove Duplicates from Sorted Array
+Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same.
+
+ 
+   * Leetcode Link: [RemoveDuplicatesFromSortedArray](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)          
+ 
+   * If you want to review my solution, you can click the link! [Solution](https://github.com/sinemturkcu/LeetCodeAlgorithmSolutions/blob/master/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java))
+
 
 
 
