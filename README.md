@@ -40,6 +40,13 @@ Given an integer array nums sorted in non-decreasing order, remove the duplicate
  
    * If you want to review my solution, you can click the link! [Solution](https://github.com/sinemturkcu/LeetCodeAlgorithmSolutions/blob/master/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java))
 
+### 6. Remove Element
+Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The relative order of the elements may be changed
+
+ 
+   * Leetcode Link: [RemoveElement](https://leetcode.com/problems/remove-element/)          
+ 
+   * If you want to review my solution, you can click the link! [Solution](https://github.com/sinemturkcu/LeetCodeAlgorithmSolutions/tree/master/RemoveElement))
 
 
 
